@@ -1,2 +1,2 @@
 BeautifulSoup==4.9.0
-Scrapy==1.6.0
+Scrapy==2.6.2
